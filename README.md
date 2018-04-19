@@ -1,2 +1,3 @@
-# KataGit
-Exercise your Git Skills
+# GitKata
+
+Exercise your Git skills
